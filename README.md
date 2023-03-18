@@ -1,2 +1,2 @@
-# ZhkITWebSite
-用来设计信息平台的
+ZhkITWebSite.github.io
+
